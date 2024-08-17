@@ -1,0 +1,13 @@
+- **TAI Data Review**: Ensuring consistency between dispatched goods data from the warehouse and system records.
+- **Purchasing Increases**: Anticipation of automatic increase in purchases with companies providing bills in a useful format.
+- **Customer Payments**: Discussion of payment adjustments for multiple companies based on outstanding amounts, utilizing FIFO (First In, First Out) method.
+- **Outstanding Amounts**: Importance of tracking which companies have outstanding dues and the impact on future orders.
+- **Manual Adjustments**: Current manual adjustments of outstanding amounts versus desired proportional adjustments upon receiving payments.
+- **Stock Management**: Maintaining detailed stock records in warehouses, including entries for incoming and outgoing stock as well as damaged goods.
+- **Stock System Proposal**: Need for a simpler database system for tracking stock movement with necessary details.
+- **Pricing Adjustments**: Handling price changes of stock without impacting overall calculations.
+- **Scheme Tracking**: Difficulty in tracking ongoing customer schemes and discounts; proposals for a better data management system to handle these.
+- **Report Automation**: Need for automatic reporting of outstanding amounts and adjustment situations for ease of management.
+- **Future Discussions**: Plans for further discussions and adjustments with stakeholders after receiving necessary documents and data feedback.
+
+This summary encapsulates the main points of discussion regarding data management, stock handling, payment adjustments, and the need for better systems and reports within the operational framework.
